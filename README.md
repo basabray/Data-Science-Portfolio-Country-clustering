@@ -2,7 +2,7 @@
 
 ## Table Of Contents:
 
-### Objectiveof the study:
+### Objective of the study:
 - To categorise the countries using socio-economic and health factors that determine the overall development of the country.
 
 ### About organization:
@@ -14,7 +14,7 @@
 ### Data Source: 
 - Kaggle dataset
 
-### Data dictionary:
+### Data Dictionary:
 - country,		   Name of the country
 - child_mort, 	 Death of children under 5 years of age per 1000 live births
 - exports, 	   Exports of goods and services per capita. Given as %age of the GDP per capita
