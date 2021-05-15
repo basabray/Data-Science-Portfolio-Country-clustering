@@ -1,6 +1,6 @@
 # Data-Science-Portfolio-Country-clustering
 
-# Table Of Contents:
+## Table Of Contents:
 
 ### Objectiveof the study:
 - To categorise the countries using socio-economic and health factors that determine the overall development of the country.
